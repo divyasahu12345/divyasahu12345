@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Magic Universe by Divya</title>
+<style>
+body{
+background:black;
+color:white;
+text-align:center;
+font-family:Arial;
+padding-top:100px;
+}
+h1{
+font-size:50px;
+color:pink;
+}
+p{
+font-size:22px;
+}
+</style>
+</head>
+
+<body>
+
+<h1>✨ Magic Universe by Divya ✨</h1>
+
+<p>Welcome to my Art World 🎨</p>
+
+<p>Sketch • Painting • Creativity</p>
+
+</body>
+</html>
